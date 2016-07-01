@@ -56,7 +56,7 @@ function getMovie(){
 	if(argTwo !== undefined) {
 		queryInput = argTwo;
 	}
-request('http://www.omdbapi.com/?t=' + queryInput + "&tomatoes=true" + function(error, response, body){
+request('http://www.omdbapi.com/?t=' + queryInput + "&tomatoes=true", function(error, response, body){
 	if(!error && response.statusCode == 200){
 		var movieInfo = JSON.parse(body);
 		console.log("Title: " + movieInfo.Title);
@@ -116,7 +116,7 @@ function getRandom() {
 							if(argTwo !== undefined) {
 								queryInput = argTwo;
 							}
-							request('http://www.omdbapi.com/?t=' + queryInput + "&tomatoes=true" + function(error, response, body){
+							request('http://www.omdbapi.com/?t=' + queryInput + "&tomatoes=true", function(error, response, body){
 								if(!error && response.statusCode == 200){
 									var movieInfo = JSON.parse(body);
 									console.log("Title: " + movieInfo.Title);

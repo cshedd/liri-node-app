@@ -1,4 +1,20 @@
 Artist: Michael Jackson
 Song: Billie Jean - Single Version
 Spotify Preview Link: https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5
-Album: Thriller 25 Super Deluxe Edition
+Album: Thriller 25 Super Deluxe EditionTitle: Cars
+Year: 2006
+IMDB Rating: 7.2
+Country: USA
+Language: Yiddish, English, Italian, Japanese
+Plot: A hot-shot race-car named Lightning McQueen gets waylaid in Radiator Springs, where he finds the true meaning of friendship and family.
+Actors: Owen Wilson, Paul Newman, Bonnie Hunt, Larry the Cable Guy
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefinedTitle: Cinderella
+Year: 1950
+IMDB Rating: 7.3
+Country: USA
+Language: English
+Plot: When Cinderella's cruel stepmother prevents her from attending the Royal Ball, she gets some unexpected help from the lovable mice Gus and Jaq, and from her Fairy Godmother.
+Actors: Ilene Woods, Eleanor Audley, Verna Felton, Claire Du Brey
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined

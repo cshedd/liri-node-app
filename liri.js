@@ -25,7 +25,7 @@ function getTweets(){
 	client.get('statuses/user_timeline', params, function(error, tweets, response){
 		if(!error){
 			for(var i = 0; i < tweets.length; i++) {
-				console.log(tweets[i].text + "Posted on: " + tweets[i].created_at + "\n");
+				console.log(tweets[i].text + " Posted on: " + tweets[i].created_at + "\n");
 			}
 		} else {
 			console.log(error);

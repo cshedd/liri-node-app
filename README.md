@@ -46,8 +46,8 @@ Country: USA
 Language: English, Somali
 Plot: The true story of Captain Richard Phillips and the 2009 hijacking by Somali pirates of the US-flagged MV Maersk Alabama, the first American cargo ship to be hijacked in two hundred years.
 Actors: Tom Hanks, Catherine Keener, Barkhad Abdi, Barkhad Abdirahman
-Rotten Tomatoes Rating: 
-Rotten Tomatoes URL:
+Rotten Tomatoes Rating: 8.3
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/captain_phillips/
 </pre>
 
 ### Perform a LIRI command in random.txt

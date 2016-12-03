@@ -66,8 +66,8 @@ request('http://www.omdbapi.com/?t=' + queryInput + "&tomatoes=true", function(e
 		console.log("Language: " + movieInfo.Language);
 		console.log("Plot: " + movieInfo.Plot);
 		console.log("Actors: " + movieInfo.Actors);
-		console.log("Rotten Tomatoes Rating: " + movieInfo.tomatoesRating);
-		console.log("Rotten Tomatoes URL: " + movieInfo.tomatoesURL);
+		console.log("Rotten Tomatoes Rating: " + movieInfo.tomatoRating);
+		console.log("Rotten Tomatoes URL: " + movieInfo.tomatoURL);
 		fs.appendFile('log.txt', "Title: " + movieInfo.Title + "\n" + "Year: " + movieInfo.Year + "\n" + "IMDB Rating: " + movieInfo.imdbRating + "\n" + "Country: " + movieInfo.Country + "\n" + "Language: " + movieInfo.Language + "\n" + "Plot: " + movieInfo.Plot + "\n" + "Actors: " + movieInfo.Actors + "\n" + "Rotten Tomatoes Rating: " + movieInfo.tomatoesRating + "\n" + "Rotten Tomatoes URL: " + movieInfo.tomatoesURL);
 	}
 	else {

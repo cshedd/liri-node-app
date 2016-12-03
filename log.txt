@@ -23,4 +23,64 @@ Spotify Preview Link: https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC
 Album: ThrillerArtist: Michael Jackson
 Song: Thriller
 Spotify Preview Link: https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC
-Album: Thriller
+Album: ThrillerArtist: Michael Jackson
+Song: Thriller
+Spotify Preview Link: https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC
+Album: ThrillerArtist: Michael Jackson
+Song: Thriller
+Spotify Preview Link: https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC
+Album: ThrillerArtist: Backstreet Boys
+Song: I Want It That Way
+Spotify Preview Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter OneArtist: blink-182
+Song: What's My Age Again?
+Spotify Preview Link: https://open.spotify.com/track/5JZcX7TTLx4l0xFIXJ3DBt
+Album: Enema Of The StateArtist: Michael Jackson
+Song: Billie Jean - Single Version
+Spotify Preview Link: https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5
+Album: Thriller 25 Super Deluxe EditionArtist: Owl City
+Song: Shooting Star
+Spotify Preview Link: https://open.spotify.com/track/7k5EcszNwUturoU20TTy1G
+Album: The Midsummer StationArtist: J. Cole
+Song: In the Morning
+Spotify Preview Link: https://open.spotify.com/track/6FedhFiHb0KxTvOD1qEX8L
+Album: Cole World: The Sideline StoryArtist: Halsey
+Song: Roman Holiday
+Spotify Preview Link: https://open.spotify.com/track/6s8PRmROPJHlqZmu9Bbviz
+Album: BADLANDS (Deluxe)Artist: Hippie Sabotage
+Song: Ridin Solo (Njomza Remix)
+Spotify Preview Link: https://open.spotify.com/track/02P9rHGHgrCUglkuAafwrP
+Album: Sunny - EPArtist: Hippie Sabotage
+Song: Ridin Solo (Njomza Remix)
+Spotify Preview Link: https://open.spotify.com/track/02P9rHGHgrCUglkuAafwrP
+Album: Sunny - EPArtist: Hippie Sabotage
+Song: Ridin Solo (Njomza Remix)
+Spotify Preview Link: https://open.spotify.com/track/02P9rHGHgrCUglkuAafwrP
+Album: Sunny - EPTitle: The Ghost Writer
+Year: 2010
+IMDB Rating: 7.2
+Country: France, Germany, UK
+Language: English
+Plot: A ghostwriter hired to complete the memoirs of a former British prime minister uncovers secrets that put his own life in jeopardy.
+Actors: Ewan McGregor, Jon Bernthal, Tim Preece, Jim Belushi
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefinedTitle: Captain Phillips
+Year: 2013
+IMDB Rating: 7.9
+Country: USA
+Language: English, Somali
+Plot: The true story of Captain Richard Phillips and the 2009 hijacking by Somali pirates of the US-flagged MV Maersk Alabama, the first American cargo ship to be hijacked in two hundred years.
+Actors: Tom Hanks, Catherine Keener, Barkhad Abdi, Barkhad Abdirahman
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefinedArtist: Backstreet Boys
+Song: I Want It That Way
+Spotify Preview Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter OneTitle: Captain Phillips
+Year: 2013
+IMDB Rating: 7.9
+Country: USA
+Language: English, Somali
+Plot: The true story of Captain Richard Phillips and the 2009 hijacking by Somali pirates of the US-flagged MV Maersk Alabama, the first American cargo ship to be hijacked in two hundred years.
+Actors: Tom Hanks, Catherine Keener, Barkhad Abdi, Barkhad Abdirahman
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
